@@ -1,0 +1,6 @@
+from BCI import BCI
+
+bci = BCI()
+a = bci.get_bci("About this item Coconut Oil and Shea Wrap Me Foaming Curl Mousse by Lotta Body, Creates Soft Wraps, Hair Mousse for Curly Hair, Defines Curls, Anti Frizz. Enriched with Coconut and Shea Oils, this formula deeply penetrates and hydrates hair, leaving hair soft and nourished with a brilliant shine Creates soft wraps Tames frizz For relaxed and natural hair With coconut and Shea oils")
+
+print(a)
